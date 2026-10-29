@@ -1,13 +1,13 @@
 {
   "name": "Weather Panel",
-  "version": "2026.10.29.1244",
+  "version": "2026.10.29.1251",
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "ota": {
-        "path": "weather-panel-2026.10.29.1244.ota.bin",
-        "md5": "cc269723e1b1e6a619082c21fe91d358",
-        "summary": "Weather panel 2026.10.29.1244"
+        "path": "weather-panel-2026.10.29.1251.ota.bin",
+        "md5": "2ac19a76c56a4278e88dd566e2e1464a",
+        "summary": "Weather panel 2026.10.29.1251"
       }
     }
   ]
